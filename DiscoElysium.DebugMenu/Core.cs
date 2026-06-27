@@ -2,7 +2,7 @@
 using Il2CppSunshine;
 using MelonLoader;
 
-[assembly: MelonInfo(typeof(DiscoElysium.DebugMenu.Core), "DiscoElysium.DebugMenu", "1.0.0", "kolbasa99", null)]
+[assembly: MelonInfo(typeof(DiscoElysium.DebugMenu.Core), "DiscoElysium.DebugMenu", "1.0.0", "kolbasa99", "https://github.com/kolbasa99/DiscoElysium.DebugMenu")]
 [assembly: MelonGame("ZAUM Studio", "Disco Elysium")]
 
 namespace DiscoElysium.DebugMenu
